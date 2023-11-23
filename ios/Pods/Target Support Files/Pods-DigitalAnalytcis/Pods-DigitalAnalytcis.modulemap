@@ -1,0 +1,6 @@
+module Pods_DigitalAnalytcis {
+  umbrella header "Pods-DigitalAnalytcis-umbrella.h"
+
+  export *
+  module * { export * }
+}

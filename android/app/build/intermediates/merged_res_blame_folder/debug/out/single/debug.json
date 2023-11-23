@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-merged_res-38:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-main-40:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-merged_res-38:/layout_launch_screen.xml.flat",
+        "source": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-main-40:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-main-40:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-merged_res-38:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-main-40:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-main-40:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-merged_res-38:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-main-40:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-main-40:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-main-40:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-main-40:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-merged_res-38:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-main-40:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-main-40:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.digitalanalytcis.app-merged_res-38:/layout_launch_screen.xml.flat",
+        "source": "com.digitalanalytcis.app-main-40:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-merged_res-38:/drawable_splash_img.png.flat",
+        "source": "/Users/tk-lpt-986/.gradle/daemon/8.0.1/com.digitalanalytcis.app-main-40:/drawable/splash_img.png"
+    }
+]
