@@ -78,7 +78,6 @@ const MainTabs = () => {
     );
 }
 
-
 const AppDrawerStack = () => {
     return (
         <Drawer.Navigator
