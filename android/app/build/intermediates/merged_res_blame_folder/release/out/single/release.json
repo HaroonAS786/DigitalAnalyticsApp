@@ -24,6 +24,10 @@
         "source": "com.digitalanalytcis.app-res-30:/drawable-mdpi/src_assets_images_menu.png"
     },
     {
+        "merged": "com.digitalanalytcis.app-merged_res-36:/drawable-mdpi_src_assets_images_logout.png.flat",
+        "source": "com.digitalanalytcis.app-res-30:/drawable-mdpi/src_assets_images_logout.png"
+    },
+    {
         "merged": "com.digitalanalytcis.app-merged_res-36:/drawable-mdpi_src_assets_images_download.png.flat",
         "source": "com.digitalanalytcis.app-res-30:/drawable-mdpi/src_assets_images_download.png"
     },

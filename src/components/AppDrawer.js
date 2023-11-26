@@ -65,6 +65,17 @@ const AppDrawer = ({ state, navigation }) => {
             {
                 state.routes.map((route, index) => index !== 2 && renderTab(route, index))
             }
+            <TouchableOpacity
+                onPress={() => navigation.navigate("LoginScreen")}
+                style={styles.wrap}
+                activeOpacity={0.6}
+            >
+                <View style={{ justifyContent: "center", alignItems: "center" }}>
+                    <Image source={IMAGES.logout} style={{ width: 24, height: 24 }} />
+                </View>
+                <Spacer width={12} />
+                <CustomText h6 color={'white'} titiliumSemiBold>Logout</CustomText>
+            </TouchableOpacity>
         </View>
     )
 }

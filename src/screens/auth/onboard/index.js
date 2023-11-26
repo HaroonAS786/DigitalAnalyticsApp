@@ -14,9 +14,9 @@ const OnBoardScreen = (props) => {
     const handleGetStarted = () => {
         return props.navigation.navigate("LoginScreen")
     }
-    // const handleGetExplore = () => {
+    const handleGetExplore = () => {
 
-    // }
+    }
 
     return (
         <ImageBackground source={IMAGES.onBoardBgImage} style={styles.bgImage}>

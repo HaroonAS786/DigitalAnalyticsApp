@@ -1,6 +1,6 @@
-#Mon Nov 20 16:59:48 PKT 2023
-base.0=/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
-base.1=/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+#Sat Nov 25 20:39:47 PKT 2023
+base.0=/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+base.1=/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
 path.0=classes.dex
 path.1=classes2.dex
 renamed.0=classes.dex

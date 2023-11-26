@@ -3059,6 +3059,7 @@ drawable src_assets_images_file2
 drawable src_assets_images_google
 drawable src_assets_images_home
 drawable src_assets_images_horizontaltiles
+drawable src_assets_images_logout
 drawable src_assets_images_menu
 drawable src_assets_images_notification
 drawable src_assets_images_onboardbgimage

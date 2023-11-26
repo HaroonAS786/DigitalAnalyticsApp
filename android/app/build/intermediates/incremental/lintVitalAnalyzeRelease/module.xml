@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app"
+    dir="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app"
     name=":app"
     type="APP"
     maven="DigitalAnalytcis:app:"

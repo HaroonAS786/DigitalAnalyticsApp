@@ -1,22 +1,22 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:1:1-28:12
-INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:1:1-28:12
-INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:1:1-28:12
-INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:1:1-28:12
-MERGED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:1:1-28:12
+ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:1:1-28:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.182.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/e47626a30834dcd66576d826bae55315/transformed/jetified-flipper-network-plugin-0.182.0/AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.182.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/927874504f02e490d8ef5fc541319ddd/transformed/jetified-flipper-fresco-plugin-0.182.0/AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper:0.182.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/e13f88164840fe641a466d05cd8edac7/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:8:1-18:12
-MERGED from [:react-native-community_datetimepicker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-gesture-handler] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-31:12
-MERGED from [:react-native-linear-gradient] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-reanimated] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-safe-area-context] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-screens] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-splash-screen] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-svg] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-community_datetimepicker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-31:12
+MERGED from [:react-native-linear-gradient] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-reanimated] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-safe-area-context] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-screens] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-splash-screen] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-svg] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.react:react-android:0.72.6] /Users/tk-lpt-986/.gradle/caches/transforms-3/620147001f23a61fa54dd66c3890cad2/transformed/jetified-react-android-0.72.6-debug/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.react:hermes-android:0.72.6] /Users/tk-lpt-986/.gradle/caches/transforms-3/82fc49c66eb188cd9d470265c2f5633f/transformed/jetified-hermes-android-0.72.6-debug/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/463b085172aadec89519c358dac4e9e6/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
@@ -85,53 +85,53 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/
 MERGED from [androidx.print:print:1.0.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/8f8cb7fbd9978c41ef281ffd13411d6a/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/6b675b8779f5bce57b5bb10c07a431c5/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/ea88610a3c8be13450373fa73372379b/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml:2:1-13:12
-INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml:2:1-13:12
-INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml:2:1-13:12
 	package
-		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:1:1-28:12
-		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:1:1-28:12
-		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:1:1-28:12
-		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:3:5-67
+ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:3:5-67
 MERGED from [com.facebook.flipper:flipper:0.182.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/e13f88164840fe641a466d05cd8edac7/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:15:5-67
 MERGED from [com.facebook.flipper:flipper:0.182.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/e13f88164840fe641a466d05cd8edac7/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:15:5-67
 	android:name
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:3:22-64
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:3:22-64
 uses-permission#android.permission.CAMERA
-ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:4:5-64
+ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:4:5-64
 	android:name
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:4:22-62
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:4:22-62
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:5:5-80
-MERGED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-81
-MERGED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-81
+ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:5:5-80
+MERGED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:5:22-78
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:5:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:6:5-80
+ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:6:5-80
 	android:name
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:6:22-77
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:6:22-77
 application
-ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:8:5-27:19
-MERGED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:8:5-27:19
-MERGED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:8:5-27:19
-MERGED from [:react-native-community_datetimepicker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-20
-MERGED from [:react-native-community_datetimepicker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-20
-MERGED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-29:19
-MERGED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-29:19
+ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:8:5-27:19
+MERGED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:8:5-27:19
+MERGED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:8:5-27:19
+MERGED from [:react-native-community_datetimepicker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-20
+MERGED from [:react-native-community_datetimepicker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-20
+MERGED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-29:19
+MERGED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-29:19
 MERGED from [com.google.android.material:material:1.9.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/dd33cdba76574cd6269c5bd29e434651/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.9.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/dd33cdba76574cd6269c5bd29e434651/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/tk-lpt-986/.gradle/caches/transforms-3/da04db25643cb9506bb2398f6610984b/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
@@ -151,81 +151,81 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tk-l
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/9623e378e4dfc57c47793d0ffd25ee05/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:10:7-39
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:10:7-39
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:10:7-39
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:10:7-39
 	tools:ignore
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml:10:9-48
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml:10:9-48
 	android:roundIcon
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:12:7-52
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:12:7-52
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:12:7-52
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:12:7-52
 	tools:targetApi
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml:9:9-29
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml:9:9-29
 	android:icon
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:11:7-41
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:11:7-41
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:11:7-41
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:11:7-41
 	android:allowBackup
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:13:7-34
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:13:7-34
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:13:7-34
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:13:7-34
 	android:theme
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:14:7-38
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:14:7-38
 	android:usesCleartextTraffic
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml:8:9-44
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml:8:9-44
 	android:name
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:9:7-38
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:9:7-38
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:9:7-38
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:9:7-38
 activity#com.digitalanalytcis.MainActivity
-ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:15:7-26:18
+ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:15:7-26:18
 	android:label
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:17:9-41
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:17:9-41
 	android:launchMode
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:19:9-40
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:19:9-40
 	android:windowSoftInputMode
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:20:9-51
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:20:9-51
 	android:exported
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:21:9-32
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:21:9-32
 	android:configChanges
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:18:9-118
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:18:9-118
 	android:name
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:16:9-37
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:16:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:22:9-25:25
+ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:22:9-25:25
 action#android.intent.action.MAIN
-ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:23:13-65
+ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:23:13-65
 	android:name
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:23:21-62
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:23:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:24:13-73
+ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:24:13-73
 	android:name
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:24:23-70
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:24:23-70
 uses-sdk
-INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.182.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/e47626a30834dcd66576d826bae55315/transformed/jetified-flipper-network-plugin-0.182.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.182.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/e47626a30834dcd66576d826bae55315/transformed/jetified-flipper-network-plugin-0.182.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.182.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/927874504f02e490d8ef5fc541319ddd/transformed/jetified-flipper-fresco-plugin-0.182.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.182.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/927874504f02e490d8ef5fc541319ddd/transformed/jetified-flipper-fresco-plugin-0.182.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper:0.182.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/e13f88164840fe641a466d05cd8edac7/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper:0.182.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/e13f88164840fe641a466d05cd8edac7/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:11:5-13:41
-MERGED from [:react-native-community_datetimepicker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-community_datetimepicker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-gesture-handler] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-gesture-handler] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-linear-gradient] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-linear-gradient] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-reanimated] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-reanimated] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-safe-area-context] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-safe-area-context] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-screens] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-screens] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-splash-screen] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-splash-screen] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-svg] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-svg] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_datetimepicker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_datetimepicker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-linear-gradient] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-linear-gradient] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-reanimated] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-reanimated] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-splash-screen] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-splash-screen] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-svg] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-svg] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.react:react-android:0.72.6] /Users/tk-lpt-986/.gradle/caches/transforms-3/620147001f23a61fa54dd66c3890cad2/transformed/jetified-react-android-0.72.6-debug/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.react:react-android:0.72.6] /Users/tk-lpt-986/.gradle/caches/transforms-3/620147001f23a61fa54dd66c3890cad2/transformed/jetified-react-android-0.72.6-debug/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.react:hermes-android:0.72.6] /Users/tk-lpt-986/.gradle/caches/transforms-3/82fc49c66eb188cd9d470265c2f5633f/transformed/jetified-hermes-android-0.72.6-debug/AndroidManifest.xml:5:5-44
@@ -362,58 +362,58 @@ MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/tk-lpt-986/.gradle/caches/
 MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/6b675b8779f5bce57b5bb10c07a431c5/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/ea88610a3c8be13450373fa73372379b/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/ea88610a3c8be13450373fa73372379b/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml:5:5-77
+ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml:5:22-75
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml:5:22-75
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml:11:9-111
+ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml:11:9-111
 	android:exported
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml:11:84-108
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml:11:84-108
 	android:name
-		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/debug/AndroidManifest.xml:11:19-83
+		ADDED from /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/debug/AndroidManifest.xml:11:19-83
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.facebook.flipper:flipper:0.182.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/e13f88164840fe641a466d05cd8edac7/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:16:5-76
 	android:name
 		ADDED from [com.facebook.flipper:flipper:0.182.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/e13f88164840fe641a466d05cd8edac7/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:16:22-73
 queries
-ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-11:15
+ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-11:15
 intent#action:name:android.media.action.IMAGE_CAPTURE
-ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-10:18
+ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-10:18
 action#android.media.action.IMAGE_CAPTURE
-ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-73
+ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-73
 	android:name
-		ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:21-70
+		ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:21-70
 provider#com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider
-ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-24:20
+ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-24:20
 	android:grantUriPermissions
-		ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-47
+		ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-47
 	android:authorities
-		ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-60
+		ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-60
 	android:exported
-		ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-37
+		ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-37
 	android:name
-		ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-94
+		ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-94
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-23:78
+ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-23:78
 	android:resource
-		ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:17-75
+		ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:17-75
 	android:name
-		ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:17-67
+		ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:17-67
 activity#com.yalantis.ucrop.UCropActivity
-ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:9-28:72
+ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:9-28:72
 	android:theme
-		ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-69
+		ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-69
 	android:name
-		ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-60
+		ADDED from [:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-60
 meta-data#com.facebook.soloader.enabled
 ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/tk-lpt-986/.gradle/caches/transforms-3/ec3312a013bd7d8a70466a1977a1dba4/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:12:9-14:37
 	android:value

@@ -24,8 +24,5 @@ export const getStyles = () => StyleSheet.create({
         borderRadius: 8,
         height: 44
     },
-    countTimer: {
-        alignItems: 'center',
-        justifyContent: 'center',
-    },
+   
 })

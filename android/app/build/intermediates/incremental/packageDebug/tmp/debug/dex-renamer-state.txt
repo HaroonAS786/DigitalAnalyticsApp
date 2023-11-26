@@ -1,20 +1,20 @@
-#Thu Nov 09 13:26:40 PKT 2023
-base.0=/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/build/intermediates/dex/debug/mergeLibDexDebug/1/classes.dex
-base.10=/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/build/intermediates/dex/debug/mergeLibDexDebug/7/classes.dex
-base.11=/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/build/intermediates/dex/debug/mergeLibDexDebug/9/classes.dex
-base.12=/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.13=/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
-base.14=/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
-base.15=/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
-base.2=/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/build/intermediates/dex/debug/mergeLibDexDebug/10/classes.dex
-base.3=/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/build/intermediates/dex/debug/mergeLibDexDebug/11/classes.dex
-base.4=/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/build/intermediates/dex/debug/mergeLibDexDebug/13/classes.dex
-base.5=/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/build/intermediates/dex/debug/mergeLibDexDebug/14/classes.dex
-base.6=/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/build/intermediates/dex/debug/mergeLibDexDebug/15/classes.dex
-base.7=/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/build/intermediates/dex/debug/mergeLibDexDebug/2/classes.dex
-base.8=/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/build/intermediates/dex/debug/mergeLibDexDebug/3/classes.dex
-base.9=/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/build/intermediates/dex/debug/mergeLibDexDebug/6/classes.dex
+#Sat Nov 25 19:03:33 PKT 2023
+base.0=/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/build/intermediates/dex/debug/mergeLibDexDebug/1/classes.dex
+base.10=/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/build/intermediates/dex/debug/mergeLibDexDebug/7/classes.dex
+base.11=/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/build/intermediates/dex/debug/mergeLibDexDebug/9/classes.dex
+base.12=/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.13=/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+base.14=/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
+base.15=/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+base.2=/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/build/intermediates/dex/debug/mergeLibDexDebug/10/classes.dex
+base.3=/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/build/intermediates/dex/debug/mergeLibDexDebug/11/classes.dex
+base.4=/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/build/intermediates/dex/debug/mergeLibDexDebug/13/classes.dex
+base.5=/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/build/intermediates/dex/debug/mergeLibDexDebug/14/classes.dex
+base.6=/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/build/intermediates/dex/debug/mergeLibDexDebug/15/classes.dex
+base.7=/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/build/intermediates/dex/debug/mergeLibDexDebug/2/classes.dex
+base.8=/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/build/intermediates/dex/debug/mergeLibDexDebug/3/classes.dex
+base.9=/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/build/intermediates/dex/debug/mergeLibDexDebug/6/classes.dex
 path.0=classes.dex
 path.1=1/classes.dex
 path.10=7/classes.dex

@@ -6,99 +6,99 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml
+8-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml
+9-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:3:5-67
-11-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:3:22-64
+11-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:3:5-67
+11-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:3:22-64
 12    <uses-permission android:name="android.permission.CAMERA" />
-12-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:4:5-64
-12-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:4:22-62
+12-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:4:5-64
+12-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:4:22-62
 13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-13-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:5:5-80
-13-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:5:22-78
+13-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:5:5-80
+13-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:5:22-78
 14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-14-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:6:5-80
-14-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:6:22-77
+14-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:6:5-80
+14-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:6:22-77
 15
 16    <queries>
-16-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-11:15
+16-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-11:15
 17        <intent>
-17-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-10:18
+17-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-10:18
 18            <action android:name="android.media.action.IMAGE_CAPTURE" />
-18-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-73
-18-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:21-70
+18-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-73
+18-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:21-70
 19        </intent>
 20    </queries>
 21
 22    <application
-22-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:8:5-27:19
+22-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:8:5-27:19
 23        android:name="com.digitalanalytcis.MainApplication"
-23-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:9:7-38
+23-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:9:7-38
 24        android:allowBackup="false"
-24-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:13:7-34
+24-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:13:7-34
 25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 25-->[androidx.core:core:1.8.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/9623e378e4dfc57c47793d0ffd25ee05/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
 26        android:icon="@mipmap/ic_launcher"
-26-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:11:7-41
+26-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:11:7-41
 27        android:label="@string/app_name"
-27-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:10:7-39
+27-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:10:7-39
 28        android:roundIcon="@mipmap/ic_launcher_round"
-28-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:12:7-52
+28-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:12:7-52
 29        android:theme="@style/AppTheme" >
-29-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:14:7-38
+29-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:14:7-38
 30        <activity
-30-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:15:7-26:18
+30-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:15:7-26:18
 31            android:name="com.digitalanalytcis.MainActivity"
-31-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:16:9-37
+31-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:16:9-37
 32            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-32-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:18:9-118
+32-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:18:9-118
 33            android:exported="true"
-33-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:21:9-32
+33-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:21:9-32
 34            android:label="@string/app_name"
-34-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:17:9-41
+34-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:17:9-41
 35            android:launchMode="singleTask"
-35-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:19:9-40
+35-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:19:9-40
 36            android:windowSoftInputMode="adjustResize" >
-36-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:20:9-51
+36-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:20:9-51
 37            <intent-filter>
-37-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:22:9-25:25
+37-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:22:9-25:25
 38                <action android:name="android.intent.action.MAIN" />
-38-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:23:13-65
-38-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:23:21-62
+38-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:23:13-65
+38-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:23:21-62
 39
 40                <category android:name="android.intent.category.LAUNCHER" />
-40-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:24:13-73
-40-->/Users/tk-lpt-986/Projects/DigitalAnalytcis/android/app/src/main/AndroidManifest.xml:24:23-70
+40-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:24:13-73
+40-->/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android/app/src/main/AndroidManifest.xml:24:23-70
 41            </intent-filter>
 42        </activity>
 43
 44        <provider
-44-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:9-24:20
+44-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:9-24:20
 45            android:name="com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider"
-45-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-94
+45-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-94
 46            android:authorities="com.digitalanalytcis.provider"
-46-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-60
+46-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-60
 47            android:exported="false"
-47-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-37
+47-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-37
 48            android:grantUriPermissions="true" >
-48-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:13-47
+48-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:13-47
 49            <meta-data
-49-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-23:78
+49-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-23:78
 50                android:name="android.support.FILE_PROVIDER_PATHS"
-50-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:17-67
+50-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:17-67
 51                android:resource="@xml/ivpusic_imagepicker_provider_paths" />
-51-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:17-75
+51-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:17-75
 52        </provider>
 53
 54        <activity
-54-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:9-28:72
+54-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:9-28:72
 55            android:name="com.yalantis.ucrop.UCropActivity"
-55-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:27:13-60
+55-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:27:13-60
 56            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-56-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:13-69
+56-->[:react-native-image-crop-picker] /Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:13-69
 57
 58        <provider
 58-->[androidx.emoji2:emoji2:1.2.0] /Users/tk-lpt-986/.gradle/caches/transforms-3/259206a491dfa4b8b6052b2b1c41d979/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20

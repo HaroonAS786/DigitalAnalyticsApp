@@ -26,10 +26,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/tk-lpt-986/Projects/DigitalAnalytcis/android@@:react-native-community_datetimepicker::release"
-      jars="/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/@react-native-community/datetimepicker/android/build/.transforms/b9c881230f372aa02e50a4d3845496a8/transformed/out/jars/classes.jar:/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/@react-native-community/datetimepicker/android/build/.transforms/b9c881230f372aa02e50a4d3845496a8/transformed/out/jars/libs/R.jar"
+      name="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android@@:react-native-community_datetimepicker::release"
+      jars="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/@react-native-community/datetimepicker/android/build/.transforms/eafa2ab7caf9b113745eb79cbe3982d9/transformed/out/jars/classes.jar:/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/@react-native-community/datetimepicker/android/build/.transforms/eafa2ab7caf9b113745eb79cbe3982d9/transformed/out/jars/libs/R.jar"
       resolved="DigitalAnalytcis:react-native-community_datetimepicker:unspecified"
-      folder="/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/@react-native-community/datetimepicker/android/build/.transforms/b9c881230f372aa02e50a4d3845496a8/transformed/out"
+      folder="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/@react-native-community/datetimepicker/android/build/.transforms/eafa2ab7caf9b113745eb79cbe3982d9/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -39,10 +39,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/tk-lpt-986/Projects/DigitalAnalytcis/android@@:react-native-gesture-handler::release"
-      jars="/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-gesture-handler/android/build/.transforms/785961f8681be68180ac7fb79eec43b1/transformed/out/jars/classes.jar:/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-gesture-handler/android/build/.transforms/785961f8681be68180ac7fb79eec43b1/transformed/out/jars/libs/R.jar"
+      name="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android@@:react-native-gesture-handler::release"
+      jars="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-gesture-handler/android/build/.transforms/40887d4a3a7084955ce73af2b35ece47/transformed/out/jars/classes.jar:/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-gesture-handler/android/build/.transforms/40887d4a3a7084955ce73af2b35ece47/transformed/out/jars/libs/R.jar"
       resolved="DigitalAnalytcis:react-native-gesture-handler:unspecified"
-      folder="/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-gesture-handler/android/build/.transforms/785961f8681be68180ac7fb79eec43b1/transformed/out"
+      folder="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-gesture-handler/android/build/.transforms/40887d4a3a7084955ce73af2b35ece47/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -52,10 +52,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/tk-lpt-986/Projects/DigitalAnalytcis/android@@:react-native-image-crop-picker::release"
-      jars="/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/.transforms/11ee4e27aaacc432cd20e583a69758a3/transformed/out/jars/classes.jar:/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/.transforms/11ee4e27aaacc432cd20e583a69758a3/transformed/out/jars/libs/R.jar"
+      name="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android@@:react-native-image-crop-picker::release"
+      jars="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/.transforms/b4194176a7b8e9cc6ac21a29e2fb5956/transformed/out/jars/classes.jar:/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/.transforms/b4194176a7b8e9cc6ac21a29e2fb5956/transformed/out/jars/libs/R.jar"
       resolved="DigitalAnalytcis:react-native-image-crop-picker:unspecified"
-      folder="/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-image-crop-picker/android/build/.transforms/11ee4e27aaacc432cd20e583a69758a3/transformed/out"
+      folder="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-image-crop-picker/android/build/.transforms/b4194176a7b8e9cc6ac21a29e2fb5956/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -65,10 +65,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/tk-lpt-986/Projects/DigitalAnalytcis/android@@:react-native-linear-gradient::release"
-      jars="/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-linear-gradient/android/build/.transforms/f1d8560dac4ada5f98241b52d12d76f9/transformed/out/jars/classes.jar:/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-linear-gradient/android/build/.transforms/f1d8560dac4ada5f98241b52d12d76f9/transformed/out/jars/libs/R.jar"
+      name="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android@@:react-native-linear-gradient::release"
+      jars="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-linear-gradient/android/build/.transforms/0bd3acfd01ff83afcf95d819cc1deab9/transformed/out/jars/classes.jar:/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-linear-gradient/android/build/.transforms/0bd3acfd01ff83afcf95d819cc1deab9/transformed/out/jars/libs/R.jar"
       resolved="DigitalAnalytcis:react-native-linear-gradient:unspecified"
-      folder="/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-linear-gradient/android/build/.transforms/f1d8560dac4ada5f98241b52d12d76f9/transformed/out"
+      folder="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-linear-gradient/android/build/.transforms/0bd3acfd01ff83afcf95d819cc1deab9/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -78,10 +78,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/tk-lpt-986/Projects/DigitalAnalytcis/android@@:react-native-reanimated::release"
-      jars="/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-reanimated/android/build/.transforms/00289f84ed150839149ad969c596d73c/transformed/out/jars/classes.jar:/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-reanimated/android/build/.transforms/00289f84ed150839149ad969c596d73c/transformed/out/jars/libs/R.jar"
+      name="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android@@:react-native-reanimated::release"
+      jars="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-reanimated/android/build/.transforms/07527defa17ef9fa81dd3645b1bcda5b/transformed/out/jars/classes.jar:/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-reanimated/android/build/.transforms/07527defa17ef9fa81dd3645b1bcda5b/transformed/out/jars/libs/R.jar"
       resolved="DigitalAnalytcis:react-native-reanimated:unspecified"
-      folder="/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-reanimated/android/build/.transforms/00289f84ed150839149ad969c596d73c/transformed/out"
+      folder="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-reanimated/android/build/.transforms/07527defa17ef9fa81dd3645b1bcda5b/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -91,10 +91,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/tk-lpt-986/Projects/DigitalAnalytcis/android@@:react-native-safe-area-context::release"
-      jars="/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-safe-area-context/android/build/.transforms/8391bcc747de8fcd666cfc5cee85853c/transformed/out/jars/classes.jar:/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-safe-area-context/android/build/.transforms/8391bcc747de8fcd666cfc5cee85853c/transformed/out/jars/libs/R.jar"
+      name="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android@@:react-native-safe-area-context::release"
+      jars="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-safe-area-context/android/build/.transforms/0a37be3273fb202374a39dc1dc700994/transformed/out/jars/classes.jar:/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-safe-area-context/android/build/.transforms/0a37be3273fb202374a39dc1dc700994/transformed/out/jars/libs/R.jar"
       resolved="DigitalAnalytcis:react-native-safe-area-context:unspecified"
-      folder="/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-safe-area-context/android/build/.transforms/8391bcc747de8fcd666cfc5cee85853c/transformed/out"
+      folder="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-safe-area-context/android/build/.transforms/0a37be3273fb202374a39dc1dc700994/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -104,10 +104,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/tk-lpt-986/Projects/DigitalAnalytcis/android@@:react-native-screens::release"
-      jars="/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-screens/android/build/.transforms/82e40c97a383012a132989f283939a9a/transformed/out/jars/classes.jar:/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-screens/android/build/.transforms/82e40c97a383012a132989f283939a9a/transformed/out/jars/libs/R.jar"
+      name="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android@@:react-native-screens::release"
+      jars="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-screens/android/build/.transforms/ced9adfba02d11eabdccf5af6e3b8402/transformed/out/jars/classes.jar:/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-screens/android/build/.transforms/ced9adfba02d11eabdccf5af6e3b8402/transformed/out/jars/libs/R.jar"
       resolved="DigitalAnalytcis:react-native-screens:unspecified"
-      folder="/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-screens/android/build/.transforms/82e40c97a383012a132989f283939a9a/transformed/out"
+      folder="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-screens/android/build/.transforms/ced9adfba02d11eabdccf5af6e3b8402/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -117,10 +117,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/tk-lpt-986/Projects/DigitalAnalytcis/android@@:react-native-splash-screen::release"
-      jars="/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-splash-screen/android/build/.transforms/ceaa9d9ada3a00b7ac1c5305efbeb134/transformed/out/jars/classes.jar:/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-splash-screen/android/build/.transforms/ceaa9d9ada3a00b7ac1c5305efbeb134/transformed/out/jars/libs/R.jar"
+      name="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android@@:react-native-splash-screen::release"
+      jars="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-splash-screen/android/build/.transforms/83d9bebab853a8766a344435f205c893/transformed/out/jars/classes.jar:/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-splash-screen/android/build/.transforms/83d9bebab853a8766a344435f205c893/transformed/out/jars/libs/R.jar"
       resolved="DigitalAnalytcis:react-native-splash-screen:unspecified"
-      folder="/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-splash-screen/android/build/.transforms/ceaa9d9ada3a00b7ac1c5305efbeb134/transformed/out"
+      folder="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-splash-screen/android/build/.transforms/83d9bebab853a8766a344435f205c893/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -130,10 +130,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/tk-lpt-986/Projects/DigitalAnalytcis/android@@:react-native-svg::release"
-      jars="/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-svg/android/build/.transforms/c8229b1c76496a6c235579ff30946bfe/transformed/out/jars/classes.jar:/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-svg/android/build/.transforms/c8229b1c76496a6c235579ff30946bfe/transformed/out/jars/libs/R.jar"
+      name="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/android@@:react-native-svg::release"
+      jars="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-svg/android/build/.transforms/977af21d7ac69ad07f7cd6ca82b09f0c/transformed/out/jars/classes.jar:/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-svg/android/build/.transforms/977af21d7ac69ad07f7cd6ca82b09f0c/transformed/out/jars/libs/R.jar"
       resolved="DigitalAnalytcis:react-native-svg:unspecified"
-      folder="/Users/tk-lpt-986/Projects/DigitalAnalytcis/node_modules/react-native-svg/android/build/.transforms/c8229b1c76496a6c235579ff30946bfe/transformed/out"
+      folder="/Users/tk-lpt-986/Projects/DigitalAnalyticsApp/node_modules/react-native-svg/android/build/.transforms/977af21d7ac69ad07f7cd6ca82b09f0c/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

@@ -20,4 +20,5 @@ export const IMAGES = {
     horizontalTiles: require('./horizontalTiles.png'),
     tiles: require('./tiles.png'),
     chart: require('./chart.png'),
+    logout: require('./logout.png'),
 }
