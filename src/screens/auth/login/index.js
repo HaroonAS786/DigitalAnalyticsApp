@@ -118,8 +118,8 @@ const LoginScreen = (props) => {
                     <CustomTextInput
                         placeholder={"Password"}
                         onChangeText={(t) => handleInput(t, "password")}
-                        leftIconPress={() => { setTogglePass(!togglePass) }}
-                        leftIcon={togglePass ? <PasswordHideIcon /> : <PasswordIcon />}
+                        rightIconPress={() => { setTogglePass(!togglePass) }}
+                        rightIcon={togglePass ? <PasswordHideIcon /> : <PasswordIcon />}
                         password={!togglePass}
                         errors={data.password.errors}
                         success={data.password.success} />

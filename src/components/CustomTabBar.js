@@ -42,7 +42,6 @@ const CustomTabBar = ({ state, descriptors, navigation }) => {
 			if (!isFocused && !event.defaultPrevented) {
 				navigation.navigate(route.name);
 			}
-
 		};
 
 		return (

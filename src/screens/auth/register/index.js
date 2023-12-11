@@ -216,16 +216,16 @@ const RegisterScreen = (props) => {
                             placeholder={"Password"}
                             onChangeText={(t) => handleInput(t, "password")}
                             errors={data.password.errors}
-                            leftIconPress={() => { setTogglePass(!togglePass) }}
-                            leftIcon={togglePass ? <PasswordHideIcon /> : <PasswordIcon />}
+                            success={data.password.success}
+                            rightIconPress={() => { setTogglePass(!togglePass) }}
+                            rightIcon={togglePass ? <PasswordHideIcon /> : <PasswordIcon />}
                             password={!togglePass}
-                            success={data.password.success} />
-
+                        />
                         <CustomTextInput
                             placeholder={"Confirm Password"}
                             onChangeText={(t) => handleInput(t, "confirmPassword")}
-                            leftIconPress={() => { setConfirmTogglePass(!confirmTogglePass) }}
-                            leftIcon={confirmTogglePass ? <PasswordHideIcon /> : <PasswordIcon />}
+                            rightIconPress={() => { setConfirmTogglePass(!confirmTogglePass) }}
+                            rightIcon={confirmTogglePass ? <PasswordHideIcon /> : <PasswordIcon />}
                             password={!togglePass}
                             errors={data.confirmPassword.errors}
                             success={data.confirmPassword.success} />

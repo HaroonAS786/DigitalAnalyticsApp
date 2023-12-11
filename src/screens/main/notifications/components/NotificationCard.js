@@ -27,12 +27,10 @@ const NotificationCard = ({ item, index }) => {
                     </View>
                 </Animated.View>}
         </>
-
     )
 }
 
 export default NotificationCard
-
 
 const styles = StyleSheet.create({
     container: {

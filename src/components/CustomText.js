@@ -19,7 +19,6 @@ const CustomText = ({
 	titilium = false,
 	titiliumSemiBold = false,
 	titiliumBold = false,
-
 	color = themeColors.font,
 	style = {},
 	numberOfLines

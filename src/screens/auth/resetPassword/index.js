@@ -118,8 +118,8 @@ const ResetPasswordScreen = (props) => {
                         onChangeText={(t) => handleInput(t, "newPassword")}
                         errors={data.newPassword.errors}
                         success={data.newPassword.success}
-                        leftIconPress={() => { setTogglePass(!togglePass) }}
-                        leftIcon={togglePass ? <PasswordHideIcon /> : <PasswordIcon />}
+                        rightIconPress={() => { setTogglePass(!togglePass) }}
+                        rightIcon={togglePass ? <PasswordHideIcon /> : <PasswordIcon />}
                         password={!togglePass}
                     />
                     <CustomTextInput
@@ -127,8 +127,8 @@ const ResetPasswordScreen = (props) => {
                         onChangeText={(t) => handleInput(t, "confirmPassword")}
                         errors={data.confirmPassword.errors}
                         success={data.confirmPassword.success}
-                        leftIconPress={() => { setConfirmTogglePass(!confirmTogglePass) }}
-                        leftIcon={confirmTogglePass ? <PasswordHideIcon /> : <PasswordIcon />}
+                        rightIconPress={() => { setConfirmTogglePass(!confirmTogglePass) }}
+                        rightIcon={confirmTogglePass ? <PasswordHideIcon /> : <PasswordIcon />}
                         password={!confirmTogglePass}
                     />
                     <Spacer height={14} />

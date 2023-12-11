@@ -23,8 +23,8 @@ const CustomTextInput = ({
 	autoCapitalize,
 	inputMainCon,
 	keyboardType,
-	leftIcon,
-	leftIconPress
+	rightIcon,
+	rightIconPress
 }) => {
 
 	const RenderMsg = useCallback(({ msg, isError }) => {
@@ -42,7 +42,7 @@ const CustomTextInput = ({
 		<View>
 			<View style={styles.main}>
 				{label && <CustomText body titilium>{label}</CustomText>}
-				<View style={{ flexDirection: "row", alignItems: "center",justifyContent:"space-between" }}>
+				<View style={{ flexDirection: "row", alignItems: "center", justifyContent: "space-between" }}>
 					<TextInput
 						value={value}
 						maxLength={maxLength}
@@ -57,8 +57,8 @@ const CustomTextInput = ({
 						numberOfLines={numberOfLines}
 						autoCapitalize={autoCapitalize}
 					/>
-					<TouchableOpacity onPress={leftIconPress} activeOpacity={0.6}>
-						{leftIcon}
+					<TouchableOpacity onPress={rightIconPress} activeOpacity={0.6}>
+						{rightIcon}
 					</TouchableOpacity>
 				</View>
 			</View >
@@ -86,7 +86,7 @@ const styles = StyleSheet.create({
 		alignItems: "center",
 		color: themeColors.black,
 		fontFamily: 'TitiliumWeb-Regular',
-		width:'60%'
+		width: '60%'
 	},
 	msgBox: {
 		marginTop: 10,
